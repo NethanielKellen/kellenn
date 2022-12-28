@@ -39,49 +39,49 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6282334018401', 'IchanZX', true],
-['6282139533381', 'ZidanZX', true]
+['6282334018401', 'kellen', true],
+['6282139533381', 'Kellen', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6282139533381'
-global.nomorown = '6282334018401'
-global.nomorown1 = '6282334018401'
-global.nomorown2 = '6282139533381'
+global.nomorbot = '6282117148448'
+global.nomorown = '6285939348747'
+global.nomorown1 = '6282117148448'
+global.nomorown2 = '6285939348747'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By IchanZX'
-global.namebot = '𝑪𝒉𝒂𝒊𝒏𝒃𝒐𝒕𝒛'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝒁𝑿𝒄𝒐𝒅𝒆𝒓𝑰𝑫'
+global.author = 'Created By Kellen'
+global.namebot = 'Kellen'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Kellen'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = '𝒁𝑿𝒄𝒐𝒅𝒆𝒓𝑰𝑫 '
+global.wm2 = 'Kellen '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝑰𝒄𝒉𝒂𝒏𝒁𝑿 𝑪𝒐𝒅𝒆𝒓𝑰𝑫`
-global.stickpack = '𝑰𝒄𝒉𝒂𝒏𝒁𝑿 𝑪𝒐𝒅𝒆𝒓𝑰𝑫'
-global.stickauth = `© ZXcoder ID`
+global.titlebot = `Kellen`
+global.stickpack = 'Kellen'
+global.stickauth = `© Kellen`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'IchanZX'
-global.nameown2 = 'ZidanZX'
+global.nameown1= 'Kellen'
+global.nameown2 = 'Kellen'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/_fake.story46'
-global.sgh = 'https://github.com/hyuura-official' //github
-global.sgc = 'https://chat.whatsapp.com/K054nNWjXHT3ponGuqE2Cp' //group whatsapp
+global.sig = ''
+global.sgh = ' //github
+global.sgc = '' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/IchanGaming'
+global.snh = ''
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = '085 2587 51681'
